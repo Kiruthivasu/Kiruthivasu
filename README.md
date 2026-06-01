@@ -24,11 +24,22 @@ Building responsive and user-friendly web applications with modern frontend tech
 
 ### 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,vite" />
-</p>
+### Languages
 
----
+HTML5 | CSS3 | JavaScript (ES6+)
+
+### Frameworks & Libraries
+
+React.js | Vite
+
+### Tools & Platforms
+
+Git | GitHub | Visual Studio Code
+
+### Frontend Development
+
+Responsive Web Design | API Integration | Local Storage
+
 
 ### 🚀 Projects
 
