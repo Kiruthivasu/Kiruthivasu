@@ -72,9 +72,14 @@ Repository: Add your GitHub repository link
 </p>
 
 ---
-🤝 Connect With Me
-📧 Email: kiruthivasu23@gmail.com
-💼 LinkedIn: linkedin.com/in/kiruthikavasu
+## 🤝 Connect With Me
+
+📧 Email: [kiruthivasu23@gmail.com](mailto:kiruthivasu23@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/kiruthikavasu
+
+🐙 GitHub: https://github.com/Kiruthivasu
+
 
 ---
 
