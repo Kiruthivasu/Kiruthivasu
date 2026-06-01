@@ -43,19 +43,21 @@ Responsive Web Design | API Integration | Local Storage
 
 ### 🚀 Projects
 
-#### 🌦 Weather App
+🌦 Weather App
 
-Responsive weather application with real-time weather information.
+Responsive weather application built with React and API integration.
 
-#### ✅ TaskBuddy
+Features: Real-time weather information, city-based search, responsive design, and dynamic weather updates.
 
-Task management application featuring:
+Repository: Add your GitHub repository link
 
-* Task tracking
-* Progress monitoring
-* Task history
-* localStorage integration
-* Responsive UI
+✅ TaskBuddy
+
+Task management application built with React and localStorage.
+
+Features: Add, delete, and complete tasks, progress tracking, task history management, data persistence using localStorage, and responsive design.
+
+Repository: Add your GitHub repository link
 
 ---
 
