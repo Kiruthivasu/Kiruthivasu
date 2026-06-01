@@ -40,6 +40,7 @@ Git | GitHub | Visual Studio Code
 
 Responsive Web Design | API Integration | Local Storage
 
+---
 
 ### 🚀 Projects
 
