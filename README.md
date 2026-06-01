@@ -75,6 +75,12 @@ Repository: Add your GitHub repository link
 🤝 Connect With Me
 📧 Email: kiruthivasu23@gmail.com
 💼 LinkedIn: linkedin.com/in/kiruthikavasu
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kiruthivasu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 <!--
 **Kiruthivasu/Kiruthivasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
