@@ -7,7 +7,6 @@ Building responsive and user-friendly web applications with modern frontend tech
 
 <p align="center">
   <a href="https://github.com/Kiruthivasu">
-    <img src="https://komarev.com/ghpvc/?username=Kiruthivasu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -71,12 +70,9 @@ Task management application featuring:
 </p>
 
 ---
-
-### 📫 Connect
-
-GitHub: https://github.com/Kiruthivasu
-
-
+🤝 Connect With Me
+📧 Email: kiruthivasu23@gmail.com
+💼 LinkedIn: linkedin.com/in/kiruthikavasu
 <!--
 **Kiruthivasu/Kiruthivasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
