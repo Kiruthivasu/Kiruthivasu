@@ -1,4 +1,69 @@
-## Hi there 👋
+## Hi there 👋<h1 align="center"> I'm Kiruthika</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">
+Building responsive and user-friendly web applications with modern frontend technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kiruthivasu">
+    <img src="https://komarev.com/ghpvc/?username=Kiruthivasu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+* Frontend Developer
+* Passionate about Web Development
+* Building practical projects and improving development skills
+* Focused on creating clean and responsive user interfaces
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,vite" />
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🌦 Weather App
+
+Responsive weather application with real-time weather information.
+
+#### ✅ TaskBuddy
+
+Task management application featuring:
+
+* Task tracking
+* Progress monitoring
+* Task history
+* localStorage integration
+* Responsive UI
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiruthivasu&show_icons=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruthivasu&layout=compact" />
+</p>
+
+---
+
+### 📫 Connect
+
+GitHub: https://github.com/Kiruthivasu
+
 
 <!--
 **Kiruthivasu/Kiruthivasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
