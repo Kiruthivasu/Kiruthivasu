@@ -58,6 +58,7 @@ Task management application built with React and localStorage.
 Features: Add, delete, and complete tasks, progress tracking, task history management, data persistence using localStorage, and responsive design.
 
 Repository:  https://github.com/Kiruthivasu/TaskBuddy.git
+
 ---
 
 ### 📊 GitHub Stats
