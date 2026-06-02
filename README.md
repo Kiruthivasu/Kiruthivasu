@@ -49,16 +49,15 @@ Responsive weather application built with React and API integration.
 
 Features: Real-time weather information, city-based search, responsive design, and dynamic weather updates.
 
-Repository: Add your GitHub repository link
+Repository: https://kiruthivasu.github.io/weather-app/
 
-<h3> ✅ TaskBuddy </h3>
+<h3> ✅ TaskBuddy </h3>   https://github.com/Kiruthivasu/TaskBuddy.git
 
 Task management application built with React and localStorage.
 
 Features: Add, delete, and complete tasks, progress tracking, task history management, data persistence using localStorage, and responsive design.
 
-Repository: https://github.com/Kiruthivasu/weather-app.git
-
+Repository:  https://github.com/Kiruthivasu/TaskBuddy.git
 ---
 
 ### 📊 GitHub Stats
