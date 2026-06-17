@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center"> I'm Kiruthika</h1>
+## Hi there 👋<h1 align="center"> I'm Kiruthika V</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
